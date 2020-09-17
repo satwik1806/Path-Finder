@@ -1,5 +1,5 @@
 # Path-Finder 
-        Path visualizer in a grid using pygame library.
+        Path visualizer in a grid using pygame module.
         - We can visualize how different algorithm works in a grid if we mark 
         any random source point and ending point.
         -we can also introduce random wall on the grid .
