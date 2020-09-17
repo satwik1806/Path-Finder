@@ -24,3 +24,6 @@ After marking start and end points and introducing walls(Optional).
     -For Best First Search algotirhm press 'S'.
     -For Depth First Search algorithm press 'F'.
     -For Breadth First Search algorithm press 'B'.
+
+You can use **Right Click** to remove the walls or starting and ending points.
+Press **C** to clear everything.
