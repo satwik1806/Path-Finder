@@ -130,6 +130,9 @@ def Astar(draw,grid,st,end):
     f[st] = g[st]+ manhaton(st,end)
     heappush(h,(f[st],cnt,st))
     while(len(h) != 0):
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                pygame.quit()
 
         curr = heappop(h)[2]
 
